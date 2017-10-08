@@ -75,6 +75,7 @@ div {
     float: left;
     color: #111;
     font-weight: bold;
+    padding:-0.025rem;
 }
 h2{
     font-size: 1.2rem;
