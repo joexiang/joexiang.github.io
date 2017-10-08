@@ -86,7 +86,6 @@ h2{
 }
 .nav li {
     display: inline-block;
-    color: #666;
 }
 .masthead::after{
     display: block;
