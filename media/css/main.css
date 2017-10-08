@@ -83,6 +83,9 @@ h2{
     margin-bottom: 0;
     list-style: none;
 }
+.nav li {
+    display: inline-block;
+}
 
 /* post */
 .post {
