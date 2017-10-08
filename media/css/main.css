@@ -33,7 +33,7 @@ h1,h2,h3,h4,h5 {
     margin-top: 0;
     margin-bottom: .5rem;
     /* font-size: 18px; */
-    font-weight: 800;
+    font-weight: 750;
     line-height: 1.1;
     color: #111;
     letter-spacing:1.1rem;
@@ -46,7 +46,7 @@ img {
 a {
     font-weight: inherit;
     line-height: inherit;
-    color:inherit;
+    color: #222;
     text-decoration: none;
 }
 *, *::before, *::after {
@@ -76,7 +76,7 @@ div {
 }
 h2{
     font-size: 1.5rem;
-    font-weight: 800;
+    font-weight: inherit;
 }
 /*Navigation of header*/
 .nav{
