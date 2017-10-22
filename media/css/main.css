@@ -29,15 +29,7 @@ body {
 p {
     margin: 0 0 20px;
 }
-h1,h2,h3,h4,h5 {
-    margin-top: 0;
-    margin-bottom: .5rem;
-    /* font-size: 18px; */
-    font-weight:bold;
-    line-height: 1.1;
-    color: #111;
-    letter-spacing:-.025rem;
-}
+
 img {
     display: block;
     margin: 0;
@@ -74,12 +66,8 @@ div {
 .masthead-title{
     float: left;
     color: #111;
-    font-weight: bold;
-    padding:-0.025rem;
 }
 h2{
-    font-size: 1.2rem;
-    font-weight:bold;
 }
 /*Navigation of header*/
 .nav{
